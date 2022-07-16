@@ -1,4 +1,5 @@
 Hellow, I'm MD. Nazmul Alam
 I'm 28 Years Old.
 I'm Learning github.
-It's pretty complicated
+It's pretty complicated.
+I try my best for learning.
